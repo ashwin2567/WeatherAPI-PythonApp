@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3b813997-c1a6-4414-ad17-7181e6d7adb7/resourceGroups/ashwin-rg/providers/Microsoft.Web/sites/WeatherAPI225/subscriptions/3b813997-c1a6-4414-ad17-7181e6d7adb7/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/weatherappapitest",
+    "appService.deploySubpath": "."
+}
